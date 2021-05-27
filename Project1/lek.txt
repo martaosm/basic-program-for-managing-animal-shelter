@@ -1,0 +1,16 @@
+1
+Traviszto
+na trawienie
+15
+2
+Painaway
+na bol
+20
+3
+Calm
+na niepokoj
+35
+4
+Apetito
+na apetyt
+10
